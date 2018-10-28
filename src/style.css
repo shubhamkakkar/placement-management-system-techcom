@@ -1,0 +1,27 @@
+.padding-20{
+    padding: 20px;
+}
+
+.text-transform-uppercase{
+    text-transform: uppercase;
+}
+
+.m-a{
+    margin: auto
+}
+
+.round{
+    border-radius: 20px;
+}
+
+#gradient-card{
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  }
+
+.letter-spacing-2{
+    letter-spacing: 2px
+}  
+
+.w-100{
+    width: 100% !important
+}
